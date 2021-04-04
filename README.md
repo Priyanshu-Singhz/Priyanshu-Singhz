@@ -19,8 +19,7 @@ Skills: C++ / Java / Python / flutter
 
 💬 ask me for any help;
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&show_icons=true)   
+  
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
@@ -28,7 +27,9 @@ Skills: C++ / Java / Python / flutter
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&show_icons=true) 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 [instagram]: https://instagram.com/priyanshu2910
 [linkedin]: https://www.linkedin.com/in/priyanshusingha/
