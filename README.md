@@ -26,10 +26,10 @@ Skills: C++ / Java / Python / flutter
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&show_icons=true) 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 [instagram]: https://instagram.com/priyanshu2910
 [linkedin]: https://www.linkedin.com/in/priyanshusingha/
