@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 My name is Priyanshu Singh || I'm a 1st year Student at Parul University pursuing my B.Tech degree in CSE department || Campus Ambassador at Developer Students Club PU || I love to explore and learn new things that is one of the reasons I m here on Github.
+
+![](https://visitor-badge.glitch.me/badge?page_id=Priyanshu-Singhz.Priyanshu-Singhz)
 
 Skills: C++ / Java / Python / flutter
 
