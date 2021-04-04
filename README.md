@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 My name is Priyanshu Singh || I'm a 1st year Student at Parul University pursuing my B.Tech degree in CSE department || Campus Ambassador at Developer Students Club PU || I love to explore and learn new things that is one of the reasons I m here on Github. || 
 
@@ -26,10 +27,9 @@ Skills: C++ / Java / Python / flutter
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&show_icons=true) 
-<br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 [instagram]: https://instagram.com/priyanshu2910
 [linkedin]: https://www.linkedin.com/in/priyanshusingha/
