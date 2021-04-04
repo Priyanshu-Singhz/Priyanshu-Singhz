@@ -29,7 +29,7 @@ Skills: C++ / Java / Python / flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&show_icons=true) 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
 [instagram]: https://instagram.com/priyanshu2910
 [linkedin]: https://www.linkedin.com/in/priyanshusingha/
