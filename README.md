@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Priyanshu Singh. I'm a 1st year Student at Parul University pursuing my Btech degree in the CSE branch. I love to explore and learn new things that is one of the reasons I m here on Github. My 2021 goal is a lot of open source contributions.
+My name is Priyanshu Singh || I'm a 1st year Student at Parul University pursuing my B.Tech degree in CSE department || Campus Ambassador at Developer Students Club PU || I love to explore and learn new things that is one of the reasons I m here on Github.
 
 Skills: C++ / Java / Python / flutter
 
@@ -10,8 +10,8 @@ Skills: C++ / Java / Python / flutter
 - 🔭 
 - 🌱 I’m currently learning to make good apps using flutter
 - 👯 Love to meet different peoples and be in a techical environment.
-- 🥅 2020 Goals: Be good enough in Android Development.
-- ⚡ Fun fact: I love to draw and listen songs and go outside.
+- 🥅 2020 Goals: Be good enough in Android Development and do some open source contribution.
+- ⚡ Fun fact: I love to listen songs and go outside.
 
 
 ### Connect with me:
