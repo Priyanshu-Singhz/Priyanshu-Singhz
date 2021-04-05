@@ -36,7 +36,7 @@ Skills: C++ / Java / Python / flutter
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <p>
-    <a href="https://www.linkedin.com/in/priyanshusingha/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=black" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/priyanshusingha/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=black" alt="LinkedIn"></a>
     <a href="https://www.hackerrank.com/PriyanshuSingha"><img src="https://img.shields.io/badge/-Hackerrank-black?&style=for-the-badge&logo=hackerrank&color=black&logoColor=2EC866" alt="HackerRank"></a>
 
 </p>
