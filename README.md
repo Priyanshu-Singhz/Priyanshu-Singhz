@@ -6,7 +6,7 @@ My name is Priyanshu Singh || I'm a   2nd year Student at Parul University pursu
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Priyanshu-Singhz.Priyanshu-Singhz)
 
-Skills: C++ / Java / Python / flutter
+Skills: C++ / Java / Python / flutter / Dart / Android Development 
 
 ## I'm a Student,  Learner !!
 
