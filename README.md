@@ -12,7 +12,7 @@ Skills: C++ / Java / Python / flutter
 
 - 🌱 I’m currently learning to make good apps using flutter
 - 👯 Love to meet different peoples and be in a techical environment.
-- 🥅 2021 Goals: Be good enough in Android Development and do some open source contribution.
+- 🥅 2022 Goals: Help the community and open-source .
 - ⚡ Fun fact: I love to listen songs and go outside.
 
 
