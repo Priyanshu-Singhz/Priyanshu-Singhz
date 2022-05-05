@@ -45,7 +45,7 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 [instagram]: https://instagram.com/priyanshu2910
 [linkedin]: https://www.linkedin.com/in/priyanshusingha/
 [hackerrank]: https://www.hackerrank.com/PriyanshuSingha
-[twitter]: https://twitter.com/Priyans92238336
+[twitter]: https://twitter.com/Priyanshu_dev_
 [facebook]: https://www.facebook.com/profile.php?id=100015274668540
 
   
