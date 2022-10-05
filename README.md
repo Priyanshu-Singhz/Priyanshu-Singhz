@@ -38,7 +38,7 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank] 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&show_icons=true&theme=gotham" alt="Priyanshu-Singhz" />
+![Priyanshu GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Singhz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
