@@ -10,7 +10,7 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 
 ## I'm a Student,  Learner !!
 
-- 🌱 I’m currently learning to make good apps using flutter
+- 🌱 I’m currently constructing good apps using flutter
 - 👯 Love to meet different peoples and be in a techical environment.
 - 🥅 2022 Goals: Help the community and open-source .
 - ⚡ Fun fact: I love to listen songs and go outside.
