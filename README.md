@@ -54,4 +54,4 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 [facebook]: https://www.facebook.com/profile.php?id=100015274668540
 
   
-  <a href="https://www.buymeacoffee.com/Priyq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.buymeacoffee.com/Priyq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="190"></a>
