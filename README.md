@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-My name -> Priyanshu Singh  || I'm a 3rd year Student at Parul University pursuing my B.Tech degree in CSE department || Flutter Developer ||  I love to explore and learn new things that is one of the reasons I m here on Github. || Love to solve the real world things.
+My name -> Priyanshu Singh|| I'm a 3rd year Student at Parul University pursuing my B.Tech degree in CSE department || Flutter Developer ||  I love to explore and learn new things that is one of the reasons I m here on Github. || Love to solve the real world things.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Priyanshu-Singhz.Priyanshu-Singhz)
 
@@ -33,7 +33,7 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Connect with me:
+### Connect:
 
 💬 ask me for any help;
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
