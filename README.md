@@ -57,3 +57,7 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 
   
   <a href="https://www.buymeacoffee.com/Priyq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="190"></a>
+
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/Priyanshu-Singhz/Priyanshu-Singhz/blob/output/github-contribution-grid-snake.gif)
