@@ -61,3 +61,5 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/Priyanshu-Singhz/Priyanshu-Singhz/blob/output/github-contribution-grid-snake.gif)
+
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu-Singhz)](https://github.com/Priyanshu-Singhz/github-readme-activity-graph)
