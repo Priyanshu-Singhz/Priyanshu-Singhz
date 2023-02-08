@@ -9,7 +9,7 @@ My name is Priyanshu Singh|| I'm a 3rd year Student at Parul University pursuing
 
 Skills: C++ / Java / Python / flutter / Dart / Android Development 
   
-  
+     
 ## I'm a Android Developer  !!
 
 - 🌱 I’m currently constructing good apps using flutter
