@@ -64,3 +64,12 @@ Skills: C++ / Java / Python / flutter / Dart / Android Development
 ![snake gif](https://github.com/Priyanshu-Singhz/Priyanshu-Singhz/blob/output/github-contribution-grid-snake.gif) -->
 
 [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu-Singhz)](https://github.com/Priyanshu-Singhz/github-readme-activity-graph)
+
+
+
+<script type="text/javascript" language="javascript">
+      var aax_size='300x250';
+      var aax_pubname = 'hopes076-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
