@@ -1,5 +1,4 @@
 ![@PriyanshuSingh's Holopin board](https://holopin.io/api/user/board?user=priyanshusingha)
-<!-- Banner Image -->
 
 
 # 👋 Hello, I'm Priyanshu Singh!
@@ -38,11 +37,9 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 
 ### LeetCode: [ps4151722](https://leetcode.com/ps4151722/)
 
-
 - Achieved the prestigious **Knight Level** with a solid track record of solving more than 300 questions, placing in the top 5.83% worldwide.
 
 ### CodeChef: [priyanshu2907](https://www.codechef.com/users/priyanshu2907)
-
 
 - Earned a **4-star rating** on CodeChef, showcasing proficiency in competitive coding.
 
@@ -54,4 +51,3 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 Feel free to explore my diverse skill set and connect with me on LinkedIn or GitHub. I'm always open to collaborations, discussions, and new opportunities!
 
 🚀 Let's innovate and code together for a brighter tech future!
-
