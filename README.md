@@ -39,16 +39,12 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 ## 💻 Coding Profiles
 
 ### LeetCode: [ps4151722](https://leetcode.com/ps4151722/)
-<p align="center">
-  <img src="[https://img.icons8.com/color/48/000000/leetcode.png](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)"/>
-</p>
+
 
 - Achieved the prestigious **Knight Level** with a solid track record of solving more than 300 questions, placing in the top 5.83% worldwide.
 
 ### CodeChef: [priyanshu2907](https://www.codechef.com/users/priyanshu2907)
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/codechef.png"/>
-</p>
+
 
 - Earned a **4-star rating** on CodeChef, showcasing proficiency in competitive coding.
 
