@@ -13,12 +13,10 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 ## 💼 Skills
 
 ### Programming:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> Kotlin
-  <img src="https://img.icons8.com/color/48/000000/dart.png"/> Dart
-</p>
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
+- <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> Kotlin
+- <img src="https://img.icons8.com/color/48/000000/dart.png"/> Dart
 
 - **Proficient:** Java, C++, Kotlin, Dart
 - **Data Structures and Algorithms:** A strong foundation for tackling complex problems
@@ -26,12 +24,10 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 - **Familiar:** NodeJS, MongoDB, ExpressJS, DBMS
 
 ### Tools/Platforms:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
-  <img src="https://img.icons8.com/ios/50/000000/github.png"/> GitHub
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> Android Studio
-  <img src="https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png"/> VS Code
-</p>
+- <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
+- <img src="https://img.icons8.com/ios/50/000000/github.png"/> GitHub
+- <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> Android Studio
+- <img src="https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png"/> VS Code
 
 - **Version Control:** Git, GitHub
 - **Integrated Development Environments:** Android Studio, VS Code
@@ -39,16 +35,12 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 ## 💻 Coding Profiles
 
 ### LeetCode: [ps4151722](https://leetcode.com/ps4151722/)
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/leetcode.png"/> LeetCode
-</p>
+- <img src="https://img.icons8.com/color/48/000000/leetcode.png"/> LeetCode
 
 - Achieved the prestigious **Knight Level** with a solid track record of solving more than 300 questions, placing in the top 5.83% worldwide.
 
 ### CodeChef: [priyanshu2907](https://www.codechef.com/users/priyanshu2907)
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/codechef.png"/> CodeChef
-</p>
+- <img src="https://img.icons8.com/color/48/000000/codechef.png"/> CodeChef
 
 - Earned a **4-star rating** on CodeChef, showcasing proficiency in competitive coding.
 
