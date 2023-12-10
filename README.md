@@ -1,8 +1,6 @@
 [![@PriyanshuSingh's Holopin board](https://holopin.io/api/user/board?user=priyanshusingha)](https://holopin.io/@priyanshusingha
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://yourbannerimageurl.com" alt="Banner Image">
-</p>
+
 
 # 👋 Hello, I'm Priyanshu Singh!
 
