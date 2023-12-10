@@ -1,4 +1,4 @@
-[![@PriyanshuSingh's Holopin board](https://holopin.io/api/user/board?user=priyanshusingha)]
+![@PriyanshuSingh's Holopin board](https://holopin.io/api/user/board?user=priyanshusingha)
 <!-- Banner Image -->
 
 
