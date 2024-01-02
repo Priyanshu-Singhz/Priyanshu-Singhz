@@ -7,6 +7,13 @@
 
 Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye for crafting exceptional digital experiences. My journey in the world of programming began with a fascination for creating impactful solutions through code. I thrive on challenges and am constantly exploring innovative ways to turn ideas into reality.
 
+<br>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshusingha2910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshusingha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@priyanshusingha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23186510) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Priyans62663210) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priyanshusingha2910) 
+
+<br>
+
 ## 💼 Skills
 
 ### Programming:
@@ -43,10 +50,7 @@ Greetings! I'm a results-driven and passionate Flutter Developer with a keen eye
 
 - Earned a **4-star rating** on CodeChef, showcasing proficiency in competitive coding.
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/priyanshusingha/)
-[![GitHub followers](https://img.shields.io/github/followers/Priyanshu-Singhz?style=social)](https://github.com/Priyanshu-Singhz)
 
 Feel free to explore my diverse skill set and connect with me on LinkedIn or GitHub. I'm always open to collaborations, discussions, and new opportunities!
 
