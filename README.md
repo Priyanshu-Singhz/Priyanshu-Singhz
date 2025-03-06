@@ -25,7 +25,6 @@ struct MobileDeveloper {
     let name = "Priyanshu Singh"
     let platforms = ["iOS", "Flutter"]
     let expertise = ["UI/UX", "Architecture", "Performance"]
-    let contact = "ps4151722@gmail.com"
     
     func createExperience() -> String {
         return "Building production-ready mobile applications with millions of downloads"
