@@ -1,6 +1,5 @@
 
 <div align="center">
-  
 
 [![@PriyanshuSingh's Holopin board](https://holopin.io/api/user/board?user=priyanshusingha)](https://holopin.io/@priyanshusingha)
 
