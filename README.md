@@ -8,7 +8,6 @@
 ### `{ "role": "Mobile Developer", "specialty": ["iOS", "Flutter"] }`
 
 </div>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/50e1c61e-a633-40d1-a3ff-e8b2b2198e7f" alt="anime" width="120px" />
   
