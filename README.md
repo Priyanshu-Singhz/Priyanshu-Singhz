@@ -70,9 +70,6 @@ I'm a versatile Mobile Developer with professional experience in iOS and Flutter
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Cool Coding GIF" width="200px" />
-</div>
 ## < Mobile Development Expertise /> 📱
 <table width="100%">
   <tr>
