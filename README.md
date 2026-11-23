@@ -56,7 +56,7 @@ A hand-drawn raccoon that steals the tabs you forgot about. He always warns you 
 ## 🛠️ Toolbox
 
 <p>
-<img src="https://skillicons.dev/icons?i=swift,apple,xcode,python,fastapi,flutter,dart,js,git,github&perline=10" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=swift,apple,python,fastapi,flutter,dart,js,git,github&perline=9" alt="Skills"/>
 </p>
 
 ## 📈 GitHub, as a snake
@@ -65,7 +65,7 @@ A hand-drawn raccoon that steals the tabs you forgot about. He always warns you 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake.svg">
+  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake.svg">
 </picture>
 </div>
 
