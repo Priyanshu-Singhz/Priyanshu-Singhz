@@ -1,53 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:7f5af0&text=Priyanshu%20Singh&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=iOS%20%C3%97%20AI%20engineer%20%C2%B7%20building%20small%2C%20odd%2C%20useful%20things&descSize=18&descAlignY=58&animation=fadeIn" alt="Priyanshu Singh" width="100%"/>
+<h1>Priyanshu Singh</h1>
+<p><b>Senior iOS Engineer</b> · Swift, SwiftUI, UIKit · Backend &amp; AI</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=SwiftUI+%7C+Swift+%7C+Apple+platforms;AI+agents+%26+on-device+AI;Shipping+tiny+apps+and+extensions;Currently+exploring+Flutter" alt="Typing animation"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F05138&center=true&vCenter=true&width=700&lines=Native+iOS+apps%2C+end+to+end;1M%2B+users+across+the+apps+I've+built;Swift+%C2%B7+SwiftUI+%C2%B7+UIKit+%C2%B7+Swift+Concurrency;Payments%2C+real-time+and+AI+features;Mobile+Lead+%40+SpeedRadio" alt="Native iOS apps, end to end"/></a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshusingha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F05138?style=for-the-badge&logo=safari&logoColor=white)](https://priyanshu-singhz.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_·_12K%2B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshusingha)
+[![Book](https://img.shields.io/badge/iOS_System_Design_Book-7F5AF0?style=for-the-badge&logo=bookstack&logoColor=white)](https://topmate.io/priyanshu_singh/2068332)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@priyanshusingha)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Priyans62663210)
-[![Topmate](https://img.shields.io/badge/Book_a_call-7F5AF0?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/priyanshu_singh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=safari&logoColor=white)](https://priyanshu-singhz.lovable.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps4151722@gmail.com)
 
 </div>
 
----
+## 👋 Hi, I'm Priyanshu
 
-## 👋 Hey, I'm Priyanshu
+Senior iOS engineer, ~4 years shipping native apps from architecture to App Store. Now **Mobile Developer Lead at [SpeedRadio](https://apps.apple.com/us/app/speedradio/id6780411607)**, a five-person startup in Portugal, working remotely from India.
 
-I'm an **iOS engineer** from Kutch, Gujarat, building at the edge of **Apple platforms and AI**: SwiftUI apps, agents, and privacy-first on-device intelligence. On the side I make small, slightly silly things that solve one real problem.
+Writing the code is the easy part. The hard part is keeping an app live: payments that never double-charge, chat that survives a bad network, and weekly releases that don't break. That's the work I do, and now with AI in the loop.
 
-- 🍎 Day to day: **Swift, SwiftUI, iOS architecture**
-- 🤖 Exploring: **AI agents, on-device AI, FastAPI backends**
-- 🧩 For fun: **Chrome extensions with personality**
-- 🧠 Practising: **DSA in Python**
-- 💬 Ask me about: iOS, SwiftUI, shipping indie apps, building in public
+| **1M+** | **4.5★** | **$5M+** | **12K+** |
+|:---:|:---:|:---:|:---:|
+| users across the apps I've built | average store rating | raised by startups I've built for | LinkedIn followers |
 
-## 🛠️ Toolbox
+🟢 **Open to remote roles** · IST (UTC+5:30) · 4–6 hours overlap with EU or US-East
+
+## 🧰 Open source
+
+- **[Loglight](https://github.com/Priyanshu-Singhz/loglight)**: logcat-style, colour-coded logs for Apple developers, outside Xcode's console. Swift 6 CLI, installs with `brew install Priyanshu-Singhz/tap/loglight`.
+- **[flutter_live_activities](https://github.com/Priyanshu-Singhz/flutter_live_activities)**: drive iOS Live Activities and the Dynamic Island from Dart, bridging Flutter to ActivityKit.
+- **[Tab Ghost](https://github.com/Priyanshu-Singhz/tab-ghost)**: a Chrome extension that turns every closed tab into a little ghost on the edge of your screen. Hover to see what it was, click to bring it back. Plain JavaScript, no dependencies.
+
+## ✍️ Writing & speaking
+
+- 📖 **[iOS System Design](https://topmate.io/priyanshu_singh/2068332)**: my book on designing production iOS systems, covering architecture, networking, caching, concurrency, security and real-time.
+- 🎤 **Metal shaders for GPU programming on iOS**: talk at [Swift Surat](https://luma.com/zonymtk9), July 2026.
+- 📝 [Medium](https://medium.com/@priyanshusingha): API architecture in iOS, UserDefaults vs Core Data, KISS in Swift.
+
+## 🛠️ Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=swift,apple,python,fastapi,flutter,dart,js,git,github&perline=9" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=swift,apple,python,fastapi,gcp,docker,firebase,flutter,dart,figma,git&perline=12" alt="Swift, Apple, Python, FastAPI, GCP, Docker, Firebase, Flutter, Dart, Figma, Git"/>
 </p>
 
-## 📈 GitHub, as a snake
+**iOS:** Swift · SwiftUI · UIKit · Swift Concurrency · Core Data · Core Animation · StoreKit · ActivityKit  
+**Quality & release:** XCTest · Instruments · Sentry · Codemagic · Xcode Cloud · Fastlane · TestFlight  
+**Backend & AI:** Python · FastAPI · GCP · WebSockets · OpenAI & Claude APIs · Core ML
 
-<div align="center">
+## 📈 Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake.svg">
   <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/Priyanshu-Singhz/Priyanshu-Singhz/output/github-snake.svg">
 </picture>
-</div>
 
 ## 📬 Let's talk
 
-Got an iOS or AI project, or just want to say hi? **[Message me on LinkedIn](https://www.linkedin.com/in/priyanshusingha)** or **[book a call](https://topmate.io/priyanshu_singh)**.
+Hiring for iOS, or building something where the app has to stay up? Email **ps4151722@gmail.com**, message me on [LinkedIn](https://www.linkedin.com/in/priyanshusingha), or [book a call on Topmate](https://topmate.io/priyanshu_singh).
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7f5af0,50:2c5364,100:0f2027&section=footer" alt="" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7f5af0,50:f05138,100:0f0f10&section=footer" alt="" width="100%"/>
