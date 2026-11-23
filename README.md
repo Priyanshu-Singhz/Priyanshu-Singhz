@@ -26,33 +26,6 @@ I'm an **iOS engineer** from Kutch, Gujarat, building at the edge of **Apple pla
 - 🧠 Practising: **DSA in Python**
 - 💬 Ask me about: iOS, SwiftUI, shipping indie apps, building in public
 
-## 🚀 Things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👻 [Tab Ghost](https://github.com/Priyanshu-Singhz/tab-ghost)
-Closed tabs come back as friendly ghosts at the edge of your screen. Hover to peek, click to resurrect.
-
-`JavaScript` `Chrome Extension` `Manifest V3`
-
-[**Get it →**](https://github.com/Priyanshu-Singhz/tab-ghost/releases/latest)
-
-</td>
-<td width="50%" valign="top">
-
-### 🦝 [Pockets](https://lnkd.in/exfTirg2)
-A hand-drawn raccoon that steals the tabs you forgot about. He always warns you first, and Undo brings them back.
-
-`JavaScript` `Chrome Extension` `Live animation`
-
-[**Get it →**](https://lnkd.in/exfTirg2)
-
-</td>
-</tr>
-</table>
-
 ## 🛠️ Toolbox
 
 <p>
